@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skrypty\Save.cs">
+    <Files>
+      <File FileName="Assets\Skrypty\PlayerStartPoint.cs" Line="24" Column="41" />
+      <File FileName="Assets\Skrypty\PrzechodzeniePrzezSceny.cs" Line="21" Column="59" />
+      <File FileName="Assets\Skrypty\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Save.cs" Line="36" Column="74" />
+      <File FileName="Assets\Skrypty\GameManager.cs" Line="40" Column="18" />
+      <File FileName="Assets\Skrypty\SpawnKartek.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\ZbieranieKartek.cs" Line="18" Column="41" />
+      <File FileName="Assets\Skrypty\Przegrałeś.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Wygrałeś.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
