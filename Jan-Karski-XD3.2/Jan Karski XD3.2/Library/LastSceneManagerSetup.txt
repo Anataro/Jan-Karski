@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Sceny/Scena G\u0142\xF3wna.unity"
+- path: Assets/Sceny/Kamienice/Kamienica_1.unity
   isLoaded: 1
   isActive: 1

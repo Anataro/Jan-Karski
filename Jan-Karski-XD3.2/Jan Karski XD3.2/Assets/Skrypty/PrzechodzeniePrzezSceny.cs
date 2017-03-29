@@ -23,7 +23,7 @@ public class PrzechodzeniePrzezSceny : MonoBehaviour {
 	}
 
 	void Update (){
-		if (gameManagerSkrypt.zebranekartki == IleKartekTrzebaZebrac || gameManagerSkrypt.zebranekartki > IleKartekTrzebaZebrac) {
+		if (gameManagerSkrypt.zebranekartki >= IleKartekTrzebaZebrac) {
 			MozeszPrzejsc = true;
 		} else {
 			MozeszPrzejsc = false;
